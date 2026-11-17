@@ -1,0 +1,7 @@
+Invoice #,Client,Email,Amount,Due date,Status,Last reminder,Reminders sent
+INV-1001,Baltic Bakery,orders@example.com,240.00,2026-10-15,Paid,,0
+INV-1002,Riga Auto Service,office@example.com,560.00,2026-10-28,Unpaid,,0
+INV-1003,Green Cafe,hello@example.com,95.50,2026-11-10,Unpaid,,0
+INV-1004,North Studio,studio@example.com,1200.00,2026-12-01,Unpaid,,0
+INV-1005,Old Town Florist,not-an-email,75.00,2026-11-01,Unpaid,,0
+INV-1006,Sea Breeze Hotel,booking@example.com,830.00,2026-11-03,Unpaid,2026-11-12,1
